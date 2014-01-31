@@ -1,0 +1,25 @@
+{
+    "name": "deathwhisper",
+    "version": "0.0.0",
+    "homepage": "https://github.com/webocalypse/deathwhisper",
+    "authors": [
+        "Daniel Fuchs <daniel@webocalypse.de>"
+    ],
+    "main": "index.html",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "js/vendor/",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery" : "*",
+        "html5-boilerplate": "*",
+        "bootstrap": "*",
+        "lesshat": "*",
+        "animate-less" : "*"
+    }
+}
