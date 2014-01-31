@@ -1,0 +1,59 @@
+@import "../js/vendor/lesshat/build/lesshat.less";
+@import "../js/vendor/bootstrap/less/bootstrap.less";
+@import url("http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif|Cinzel+Decorative|Julius+Sans+One|Cinzel");
+
+@white: #fff;
+
+@media all{
+	body{
+		background: #101010;
+		color: #f0f0f0;
+		font-family: 'Julius Sans One','Cinzel Decorative', coursive;
+	}
+
+	h1,h2,h3,h4,h5,h6{
+		font-family:'Cinzel';
+	}
+
+	#header{
+		background: @white;
+
+	}
+
+	#landing{
+		background: @white;
+		img{
+			max-width: 100%;
+		}
+	}
+
+	#main{
+		background: transparent;
+		border: 0 none;
+		a{
+			color: #101010;
+		}
+	}
+
+	.row{
+		padding-top: 50px;
+		padding-bottom: 50px;
+
+		[class^="col-md-"]{
+			padding: 0 50px;
+		}
+
+		&.news{
+			text-align: center;
+
+			header{
+				padding-bottom: 25px;
+				text-align: center;
+
+				h5,h6{
+					color: darken(#f0f0f0,50%);
+				}
+			}
+		}
+	}
+}

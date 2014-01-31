@@ -2,476 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deathwhisper.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/properties.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/README-template.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/doc/TOC.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/align-content/align-content.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/align-content/align-content.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/align-items/align-items.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/align-items/align-items.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/align-self/align-self.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/align-self/align-self.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/animate.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-delay/animation-delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-delay/animation-delay.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-direction/animation-direction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-direction/animation-direction.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-duration/animation-duration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-duration/animation-duration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-fill-mode/animation-fill-mode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-fill-mode/animation-fill-mode.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-iteration-count/animation-iteration-count.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-iteration-count/animation-iteration-count.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-name/animation-name.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-name/animation-name.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-play-state/animation-play-state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-play-state/animation-play-state.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-timing-function/animation-timing-function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-timing-function/animation-timing-function.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation/animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation/animation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/appearance/appearance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/appearance/appearance.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/backface-visibility/backface-visibility.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/backface-visibility/backface-visibility.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-clip/background-clip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-clip/background-clip.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-image/background-image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-image/background-image.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-origin/background-origin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-origin/background-origin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-size/background-size.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-size/background-size.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/blur/blur.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/blur/blur.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-bottom-left-radius/border-bottom-left-radius.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-bottom-left-radius/border-bottom-left-radius.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-bottom-right-radius/border-bottom-right-radius.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-bottom-right-radius/border-bottom-right-radius.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-image/border-image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-image/border-image.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-radius/border-radius.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-radius/border-radius.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-top-left-radius/border-top-left-radius.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-top-left-radius/border-top-left-radius.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-top-right-radius/border-top-right-radius.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-top-right-radius/border-top-right-radius.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounce.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceIn.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceInDown.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceInLeft.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceInRight.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceInUp.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceOut.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceOutDown.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceOutLeft.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceOutRight.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/bounceOutUp.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/box-shadow/box-shadow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/box-shadow/box-shadow.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/box-sizing/box-sizing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/box-sizing/box-sizing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/brightness/brightness.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/brightness/brightness.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/browserstack.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/calc/calc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/calc/calc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-count/column-count.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-count/column-count.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-gap/column-gap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-gap/column-gap.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-rule/column-rule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-rule/column-rule.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-width/column-width.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-width/column-width.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/columns/columns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/columns/columns.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/contrast/contrast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/contrast/contrast.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/doc/crossdomain.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/doc/css.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/display/display.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/display/display.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/drop-shadow/drop-shadow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/drop-shadow/drop-shadow.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/doc/extend.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeIn.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeInDown.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeInDownBig.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeInLeft.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeInLeftBig.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeInRight.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeInRightBig.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeInUp.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeInUpBig.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeOut.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeOutDown.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeOutDownBig.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeOutLeft.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeOutLeftBig.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeOutRight.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeOutRightBig.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeOutUp.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/fadeOutUpBig.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/doc/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/filter/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/filter/filter.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/flash.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-basis/flex-basis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-basis/flex-basis.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-direction/flex-direction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-direction/flex-direction.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-grow/flex-grow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-grow/flex-grow.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-shrink/flex-shrink.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-shrink/flex-shrink.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-wrap/flex-wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-wrap/flex-wrap.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex/flex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex/flex.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/flip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/flipInX.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/flipInY.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/flipOutX.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/flipOutY.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/font-face/font-face.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/font-face/font-face.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/footer.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/grayscale/grayscale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/grayscale/grayscale.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/header.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/hinge.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/doc/html.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/hue-rotate/hue-rotate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/hue-rotate/hue-rotate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/invert/invert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/invert/invert.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/js/vendor/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/jquery-migrate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/jquery-migrate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/doc/js.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/justify-content/justify-content.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/justify-content/justify-content.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/keyframes/keyframes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/keyframes/keyframes.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/build/lesshat-prefixed.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/build/lesshat.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/lightSpeedIn.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/lightSpeedOut.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/doc/misc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/npm-shrinkwrap.canonical.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/opacity/opacity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/opacity/opacity.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/order/order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/order/order.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/perspective-origin/perspective-origin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/perspective-origin/perspective-origin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/perspective/perspective.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/perspective/perspective.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/placeholder/placeholder.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/placeholder/placeholder.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/pulse.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/calc/result.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/keyframes/result.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/selection/result.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rollIn.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rollOut.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotate/rotate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotate/rotate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotate3d/rotate3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotate3d/rotate3d.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateIn.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateInDownLeft.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateInDownRight.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateInUpLeft.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateInUpRight.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateOut.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateOutDownLeft.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateOutDownRight.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateOutUpLeft.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/rotateOutUpRight.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotateX/rotateX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotateX/rotateX.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotateY/rotateY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotateY/rotateY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotateZ/rotateZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotateZ/rotateZ.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/s3_cache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/saturate/saturate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/saturate/saturate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/sauce_browsers.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scale/scale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scale/scale.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scale3d/scale3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scale3d/scale3d.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scaleX/scaleX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scaleX/scaleX.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scaleY/scaleY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scaleY/scaleY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scaleZ/scaleZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scaleZ/scaleZ.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/selection/selection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/selection/selection.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/sepia/sepia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/sepia/sepia.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/shake.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/shrinkwrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/size/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/size/size.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/skew/skew.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/skew/skew.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/skewX/skewX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/skewX/skewX.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/skewY/skewY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/skewY/skewY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/swing.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/tada.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/align-content/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/align-items/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/align-self/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-delay/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-direction/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-duration/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-fill-mode/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-iteration-count/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-name/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-play-state/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/animation-timing-function/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/appearance/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/backface-visibility/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-clip/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-image/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-origin/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/background-size/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/blur/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-bottom-left-radius/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-bottom-right-radius/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-image/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-radius/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-top-left-radius/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/border-top-right-radius/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/box-shadow/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/box-sizing/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/brightness/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-count/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-gap/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-rule/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/column-width/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/columns/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/contrast/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/display/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/drop-shadow/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/filter/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-basis/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-direction/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-grow/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-shrink/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/flex-wrap/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/grayscale/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/hue-rotate/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/invert/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/justify-content/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/opacity/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/order/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/perspective/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/perspective-origin/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotate/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotate3d/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotateX/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotateY/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/rotateZ/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/saturate/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scale/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scale3d/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scaleX/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scaleY/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/scaleZ/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/sepia/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/skew/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/skewX/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/skewY/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transform/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transform-origin/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transform-style/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-delay/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-duration/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-property/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-timing-function/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translate/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translate3d/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translateX/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translateY/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translateZ/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/user-select/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transform-origin/transform-origin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transform-origin/transform-origin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transform-style/transform-style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transform-style/transform-style.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transform/transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transform/transform.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-delay/transition-delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-delay/transition-delay.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-duration/transition-duration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-duration/transition-duration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-property/transition-property.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-property/transition-property.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-timing-function/transition-timing-function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition-timing-function/transition-timing-function.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/transition/transition.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translate/translate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translate/translate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translate3d/translate3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translate3d/translate3d.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translateX/translateX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translateX/translateX.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translateY/translateY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translateY/translateY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translateZ/translateZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/translateZ/translateZ.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/uncached-npm-install.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5-boilerplate/doc/usage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/user-select/user-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/user-select/user-select.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/animate-less/less/wobble.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_w.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.less" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="deathwhisper.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -506,16 +43,37 @@
       <file leaf-file-name="bower.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="28" selection-start="540" selection-end="540" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="465">
+            <state line="23" column="24" selection-start="566" selection-end="566" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="480">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".bower.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="115" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.4945055" vertical-offset="0" max-vertical-offset="1860">
+              <folding>
+                <marker date="1391166050000" expanded="true" signature="923:1076" placeholder="..." />
+                <marker date="1391166050000" expanded="true" signature="1016:1044" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="9" selection-start="489" selection-end="489" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".bower.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/vendor/html5-boilerplate/.bower.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -536,6 +94,8 @@
       <list>
         <option value="$PROJECT_DIR$/.bowerrc" />
         <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/css/style.less" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -600,11 +160,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -618,15 +174,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5-boilerplate" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -642,8 +190,12 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -671,24 +223,30 @@
       <created>1391162640587</created>
       <updated>1391162640587</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit of dependencies">
+      <created>1391162941514</created>
+      <updated>1391162941514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="22" width="1920" height="1054" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -707,9 +265,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Initial commit of dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of dependencies" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -724,7 +286,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="28" selection-start="540" selection-end="540" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="465">
+        <state line="23" column="24" selection-start="566" selection-end="566" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="617">
           <folding />
         </state>
       </provider>
@@ -733,6 +302,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="617">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="9" selection-start="489" selection-end="489" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="115" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.4945055" vertical-offset="0" max-vertical-offset="1860">
+          <folding>
+            <marker date="1391166050000" expanded="true" signature="923:1076" placeholder="..." />
+            <marker date="1391166050000" expanded="true" signature="1016:1044" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

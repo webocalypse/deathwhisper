@@ -20,6 +20,7 @@
         "html5-boilerplate": "*",
         "bootstrap": "*",
         "lesshat": "*",
-        "animate-less" : "*"
+        "animate-less" : "*",
+        "modernizr": "*"
     }
 }
