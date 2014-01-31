@@ -18,21 +18,23 @@
 
     <link rel="stylesheet" href="css/style.css"/>
     <script src="js/vendor/modernizr/modernizr.js"></script>
-    <script src="js/vendor/jquery/jquery.min.js"></script>
-    <script src="js/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 </head>
 <body data-spy="scroll" data-target="#main">
 <!--[if lt IE 7]>
 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
     your browser</a> to improve your experience.</p>
 <![endif]-->
-<header id="header">
+<header id="header" data-spy="affix" data-offset-top="60" data-offset-bottom="200">
     <div class="container">
-        <nav id="main" class="navbar navbar-default" data-spy="affix" data-offset-top="60" data-offset-bottom="200">
+        <nav id="main" class="navbar navbar-default">
             <div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                </button>
                 <a class="navbar-brand" href="#">Deathwhisper</a>
             </div>
-            <div class="navbar-collapse">
+            <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="#news">news</a>
@@ -49,8 +51,6 @@
                 </ul>
             </div>
         </nav>
-
-
     </div>
 </header>
 <section id="landing">
@@ -61,7 +61,10 @@
 <section id="content">
     <div class="container">
         <div class="row news" id="news">
-            <h1>News</h1>
+            <div class="section-header">
+                <h1>News</h1>
+            </div>
+
 
             <div class="row">
                 <div class="col-md-4">
@@ -91,7 +94,7 @@
 
                 <div class="col-md-4">
                     <header>
-                        <h3>Bassplayer wanted</h3>
+                        <h3>Demo Recording</h3>
                         <h6>Mittwoch, 8. Februar</h6>
                     </header>
                     <h4>no sleep till dawn</h4>
@@ -105,7 +108,9 @@
         </div>
 
         <div class="row band" id="band">
-            <h1>Deathwhisper</h1>
+            <div class="section-header">
+                <h1>Deathwhisper</h1>
+            </div>
         </div>
     </div>
 </section>
@@ -114,5 +119,7 @@
 
 
 <script src="js/vendor/jquery/jquery.min.js"></script>
+<script src="js/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
 </body>
 </html>
