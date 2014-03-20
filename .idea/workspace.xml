@@ -1,67 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="New landing picture">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/browserstack.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/shrinkwrap.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/.bower.json" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/lesshat/.bower.json" afterPath="$PROJECT_DIR$/js/vendor/lesshat/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/Gruntfile.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/README.md" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/lesshat/README.md" afterPath="$PROJECT_DIR$/js/vendor/lesshat/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/affix.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/affix.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/alert.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/alert.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/bower.json" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/lesshat/bower.json" afterPath="$PROJECT_DIR$/js/vendor/lesshat/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/button-groups.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/button-groups.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/button.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/button.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/buttons.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/buttons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/carousel.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/carousel.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/carousel.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/collapse.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/collapse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/dropdown.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/dropdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/forms.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/forms.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/grid.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/grid.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/input-groups.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/input-groups.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/lesshat/build/lesshat-prefixed.less" afterPath="$PROJECT_DIR$/js/vendor/lesshat/build/lesshat-prefixed.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/lesshat/build/lesshat.less" afterPath="$PROJECT_DIR$/js/vendor/lesshat/build/lesshat.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/mixins.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/modal.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/modal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/modals.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/modals.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/navbar.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/navbar.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/npm-shrinkwrap.canonical.json" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/npm-shrinkwrap.canonical.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/package.json" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/lesshat/package.json" afterPath="$PROJECT_DIR$/js/vendor/lesshat/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/panels.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/panels.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/popover.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/popover.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/popovers.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/popovers.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/responsive-utilities.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/s3_cache.py" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/s3_cache.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/sauce_browsers.yml" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/test-infra/sauce_browsers.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/scrollspy.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/scrollspy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/lesshat/mixins/size/size.less" afterPath="$PROJECT_DIR$/js/vendor/lesshat/mixins/size/size.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/tab.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/tab.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/thumbnails.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/thumbnails.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/tooltip.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/js/transition.js" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/js/transition.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/type.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/type.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vendor/bootstrap/less/variables.less" afterPath="$PROJECT_DIR$/js/vendor/bootstrap/less/variables.less" />
+    <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/band.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jones2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/matz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/raphi1-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.less" afterPath="$PROJECT_DIR$/css/style.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="deathwhisper.iws" />
@@ -97,8 +44,11 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
-              <folding />
+            <state line="138" column="44" selection-start="5603" selection-end="5603" vertical-scroll-proportion="-19.5" vertical-offset="1602" max-vertical-offset="2535">
+              <folding>
+                <marker date="1395347842000" expanded="true" signature="791:944" placeholder="..." />
+                <marker date="1395347842000" expanded="true" signature="884:912" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,7 +65,7 @@
       <file leaf-file-name="style.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="13" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.47695607" vertical-offset="665" max-vertical-offset="1845">
+            <state line="103" column="40" selection-start="1587" selection-end="1587" vertical-scroll-proportion="0.74276525" vertical-offset="852" max-vertical-offset="1830">
               <folding />
             </state>
           </provider>
@@ -174,6 +124,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -254,7 +205,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,7 +217,7 @@
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
     <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../photoalbum" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -316,7 +266,11 @@
       <created>1391175828978</created>
       <updated>1391175828978</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updating bower dependencies">
+      <created>1393769676794</created>
+      <updated>1393769676794</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -337,12 +291,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -363,7 +317,8 @@
     <MESSAGE value="More startpage stuff" />
     <MESSAGE value="More layouting and scrolling stuff" />
     <MESSAGE value="New landing picture" />
-    <option name="LAST_COMMIT_MESSAGE" value="New landing picture" />
+    <MESSAGE value="updating bower dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating bower dependencies" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -379,7 +334,41 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
+          <folding>
+            <marker date="1395347842000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395347842000" expanded="true" signature="884:912" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="9" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="405">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="13" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="1845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="1" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
+          <folding>
+            <marker date="1395347842000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395347842000" expanded="true" signature="884:912" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -407,7 +396,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
-          <folding />
+          <folding>
+            <marker date="1395347842000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395347842000" expanded="true" signature="884:912" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -435,7 +427,10 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
-          <folding />
+          <folding>
+            <marker date="1395347842000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395347842000" expanded="true" signature="884:912" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -484,14 +479,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
-          <folding />
+        <state line="138" column="44" selection-start="5603" selection-end="5603" vertical-scroll-proportion="-19.5" vertical-offset="1602" max-vertical-offset="2535">
+          <folding>
+            <marker date="1395347842000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395347842000" expanded="true" signature="884:912" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="13" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.47695607" vertical-offset="665" max-vertical-offset="1845">
+        <state line="103" column="40" selection-start="1587" selection-end="1587" vertical-scroll-proportion="0.74276525" vertical-offset="852" max-vertical-offset="1830">
           <folding />
         </state>
       </provider>
