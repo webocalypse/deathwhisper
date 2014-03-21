@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="New minifier">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deathwhisper.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deathwhisper.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deathwhisper.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deathwhisper.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/iconfont.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/webfont/icons-reference.html" />
+    <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile/dan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile/john.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile/matz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile/raphi1-2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.less" afterPath="$PROJECT_DIR$/css/style.less" />
@@ -43,13 +41,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="97" selection-start="2715" selection-end="2715" vertical-scroll-proportion="-14.375" vertical-offset="615" max-vertical-offset="2745">
+            <state line="161" column="46" selection-start="6902" selection-end="6902" vertical-scroll-proportion="0.38322368" vertical-offset="2182" max-vertical-offset="2790">
               <folding>
-                <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
-                <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
+                <marker date="1395435649000" expanded="true" signature="791:944" placeholder="..." />
+                <marker date="1395435649000" expanded="true" signature="884:912" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -73,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="28" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.74276525" vertical-offset="297" max-vertical-offset="2145">
+            <state line="131" column="9" selection-start="1943" selection-end="1943" vertical-scroll-proportion="-16.583334" vertical-offset="1567" max-vertical-offset="2280">
               <folding />
             </state>
           </provider>
@@ -128,8 +126,8 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.custom.less" />
         <option value="$PROJECT_DIR$/css/webfont/styles.less" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.less" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -313,6 +311,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -409,6 +425,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/profile" />
       <recent name="$PROJECT_DIR$/css/webfont" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
@@ -487,31 +504,35 @@
       <created>1395349387055</created>
       <updated>1395349387055</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="New webfont for social media icons">
+      <created>1395433998385</created>
+      <updated>1395433998385</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -541,7 +562,8 @@
     <MESSAGE value="Deployment" />
     <MESSAGE value="Added stylesheets" />
     <MESSAGE value="New minifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="New minifier" />
+    <MESSAGE value="New webfont for social media icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="New webfont for social media icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -558,8 +580,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="127" column="46" selection-start="5259" selection-end="5259" vertical-scroll-proportion="0.0" vertical-offset="1905" max-vertical-offset="2535">
           <folding>
-            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="884:912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -610,8 +632,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
-            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="884:912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -641,8 +663,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
-            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="884:912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -672,8 +694,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
-            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="884:912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -703,8 +725,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
-            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="884:912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -819,20 +841,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="97" selection-start="2715" selection-end="2715" vertical-scroll-proportion="-14.375" vertical-offset="615" max-vertical-offset="2745">
-          <folding>
-            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
-          </folding>
+        <state line="131" column="9" selection-start="1943" selection-end="1943" vertical-scroll-proportion="-16.583334" vertical-offset="1567" max-vertical-offset="2280">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.less">
+    <entry file="file://$PROJECT_DIR$/img/profile/raphi1-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="28" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.74276525" vertical-offset="297" max-vertical-offset="2145">
-          <folding />
+        <state line="161" column="46" selection-start="6902" selection-end="6902" vertical-scroll-proportion="0.38322368" vertical-offset="2182" max-vertical-offset="2790">
+          <folding>
+            <marker date="1395435649000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395435649000" expanded="true" signature="884:912" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
