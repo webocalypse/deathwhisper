@@ -66,6 +66,7 @@
                 <a href="https://www.facebook.com/deathwhisper.de"><span class="dw-facebook"></span>Facebook</a>
                 <a href="https://twitter.com/deathwhisper_de"><span class="dw-twitter-alt"></span>Twitter</a>
                 <a href="https://soundcloud.com/deathwhisper"><span class="dw-soundcloud"></span>Soundcloud</a>
+                <div class="fb-like" data-href="http://www.deathwhisper.de/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
             </nav>
         </div>
         <div class="row news" id="news">
@@ -179,5 +180,13 @@
 <script src="js/vendor/jquery/jquery.min.js"></script>
 <script src="js/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="js/main.js"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1&appId=1465031483713863";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 </body>
 </html>
