@@ -1,5 +1,6 @@
 @import "../js/vendor/lesshat/build/lesshat.less";
 @import "bootstrap.custom.less";
+@import "iconfont";
 @import url("http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif|Cinzel+Decorative|Julius+Sans+One|Cinzel");
 
 @white: #fff;
@@ -55,6 +56,21 @@
 			color:@font-color;
 		}
 	}
+
+    #social-nav{
+        text-align: center;
+        padding-top: 25px;
+
+        a{
+            padding: 12px 15px;
+            display: inline-block;
+            font-size: 16px;
+        }
+
+        span{
+            padding-right: 10px;
+        }
+    }
 
 	.container>.row{
 		padding-top: 100px;
@@ -115,4 +131,8 @@
 			margin-top: 0;
 		}
 	}
+
+    #social{
+        padding: 0;
+    }
 }

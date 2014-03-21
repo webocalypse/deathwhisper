@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.custom.css" afterPath="$PROJECT_DIR$/css/bootstrap.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.custom.less" afterPath="$PROJECT_DIR$/css/bootstrap.custom.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="New minifier">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deathwhisper.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deathwhisper.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deathwhisper.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deathwhisper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/iconfont.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/webfont/icons-reference.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.less" afterPath="$PROJECT_DIR$/css/style.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -42,11 +46,20 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="127" column="46" selection-start="5259" selection-end="5259" vertical-scroll-proportion="-12.625" vertical-offset="1602" max-vertical-offset="2535">
+            <state line="64" column="97" selection-start="2715" selection-end="2715" vertical-scroll-proportion="-14.375" vertical-offset="615" max-vertical-offset="2745">
               <folding>
-                <marker date="1395348611000" expanded="true" signature="791:944" placeholder="..." />
-                <marker date="1395348611000" expanded="true" signature="884:912" placeholder="..." />
+                <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
+                <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iconfont.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/iconfont.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="14" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1110">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.less" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="1845">
+            <state line="66" column="28" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.74276525" vertical-offset="297" max-vertical-offset="2145">
               <folding />
             </state>
           </provider>
@@ -72,16 +85,16 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41340">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.custom.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="bootstrap.custom.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.custom.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="49" selection-start="193" selection-end="193" vertical-scroll-proportion="0.08038585" vertical-offset="0" max-vertical-offset="933">
+            <state line="5" column="49" selection-start="193" selection-end="193" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="465">
               <folding />
             </state>
           </provider>
@@ -90,7 +103,7 @@
       <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/bootstrap.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="28" selection-start="0" selection-end="1071" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="825">
+            <state line="22" column="28" selection-start="0" selection-end="1071" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -112,10 +125,11 @@
         <option value="$PROJECT_DIR$/.bowerrc" />
         <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/style.less" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.custom.less" />
+        <option value="$PROJECT_DIR$/css/webfont/styles.less" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.less" />
       </list>
     </option>
   </component>
@@ -320,9 +334,59 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bootstrap.custom.less" />
               <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webfont" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -341,12 +405,15 @@
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../photoalbum" />
     <property name="recentsLimit" value="5" />
+    <property name="LayoutCode.rearrangeEntriesLESS" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/webfont" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -416,34 +483,38 @@
       <created>1395349105595</created>
       <updated>1395349105595</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New minifier">
+      <created>1395349387055</created>
+      <updated>1395349387055</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -469,7 +540,8 @@
     <MESSAGE value="More changes" />
     <MESSAGE value="Deployment" />
     <MESSAGE value="Added stylesheets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added stylesheets" />
+    <MESSAGE value="New minifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="New minifier" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -484,10 +556,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="46" selection-start="5259" selection-end="5259" vertical-scroll-proportion="0.0" vertical-offset="1905" max-vertical-offset="2535">
+          <folding>
+            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="9" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="49" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="0" selection-end="1071" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="1" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
-            <marker date="1395348611000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395348611000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -517,8 +641,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
-            <marker date="1395348611000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395348611000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -548,8 +672,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
-            <marker date="1395348611000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395348611000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -579,8 +703,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
-            <marker date="1395348611000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395348611000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -628,59 +752,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/bootstrap.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="28" selection-start="0" selection-end="1071" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="825">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/close.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="957">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="957" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/npm-debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7485" />
+      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7485">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="46" selection-start="5259" selection-end="5259" vertical-scroll-proportion="-12.625" vertical-offset="1602" max-vertical-offset="2535">
-          <folding>
-            <marker date="1395348611000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1395348611000" expanded="true" signature="884:912" placeholder="..." />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="42045">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="1845">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/code.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.10932476" vertical-offset="102" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.10932476" vertical-offset="102" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/type.less">
@@ -706,7 +800,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="49" selection-start="193" selection-end="193" vertical-scroll-proportion="0.08038585" vertical-offset="0" max-vertical-offset="933">
+        <state line="5" column="49" selection-start="193" selection-end="193" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="0" selection-end="1071" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/iconfont.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="97" selection-start="2715" selection-end="2715" vertical-scroll-proportion="-14.375" vertical-offset="615" max-vertical-offset="2745">
+          <folding>
+            <marker date="1395433692000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1395433692000" expanded="true" signature="884:912" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="28" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.74276525" vertical-offset="297" max-vertical-offset="2145">
           <folding />
         </state>
       </provider>
