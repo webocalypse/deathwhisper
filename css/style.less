@@ -5,10 +5,12 @@
 
 @white: #fff;
 @font-color: #e0e0e0;
+@darkest: #101010;
+@dark: #222;
 
 @media all {
     body {
-        background: #101010;
+        background: @dark;
         color: @font-color;
         font-family: 'Julius Sans One', 'Cinzel Decorative', coursive;
     }
@@ -19,12 +21,15 @@
 
     #header {
         background: @white;
+        background: #222;
+        padding: 25px;
         width: 100%;
 
         &.affix {
-            .box-shadow(0 1px 2px rgba(0, 0, 0, .25));
+            //.box-shadow(0 1px 2px rgba(0, 0, 0, .25));
             top: 0;
             z-index: 9999;
+            padding: 0;
 
             + #landing {
                 margin-top: 50px;
@@ -46,8 +51,7 @@
         margin-bottom: 0;
 
         a {
-            color: #101010;
-            font-size: 16px;
+            color: @white;
         }
 
         li.active a {
@@ -75,6 +79,11 @@
         padding-top: 100px;
         padding-bottom: 100px;
 
+        @media (max-width: @screen-sm-max) {
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+
         [class^="col-md-"] {
             padding: 0 50px;
         }
@@ -85,6 +94,10 @@
             header {
                 padding-bottom: 25px;
                 text-align: center;
+
+                @media (max-width: @screen-sm-max) {
+                    padding-bottom: 10px;
+                }
 
                 h5, h6 {
                     color: darken(@font-color, 50%);
@@ -151,6 +164,18 @@
 
         .caption {
             color: #c0c0c0;
+        }
+    }
+
+    #news {
+        .col-sm-4 {
+            padding-left: 30px;
+            padding-right: 30px;
+
+            @media (max-width: @screen-sm-max) {
+                padding-top: 30px;
+                padding-bottom: 30px;
+            }
         }
     }
 

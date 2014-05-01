@@ -48,9 +48,6 @@
                     <li>
                         <a href="#audio">Audio</a>
                     </li>
-                    <li>
-                        <a href="#impressum">Impressum</a>
-                    </li>
                 </ul>
             </div>
         </nav>
@@ -66,18 +63,20 @@
                 <a href="https://www.facebook.com/deathwhisper.de"><span class="dw-facebook"></span>Facebook</a>
                 <a href="https://twitter.com/deathwhisper_de"><span class="dw-twitter-alt"></span>Twitter</a>
                 <a href="https://soundcloud.com/deathwhisper"><span class="dw-soundcloud"></span>Soundcloud</a>
-                <div class="fb-like" data-href="http://www.deathwhisper.de/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+
+                <div class="fb-like" data-href="http://www.deathwhisper.de/" data-layout="button_count"
+                     data-action="like" data-show-faces="false" data-share="true"></div>
             </nav>
         </div>
         <div class="row news" id="news">
-            <div class="section-header">
-                <h1>News</h1>
-            </div>
+            <header class="section-header">
+                <h2>News</h2>
+            </header>
             <div class="row">
                 <div class="col-sm-4">
                     <header>
                         <h3>Bassplayer wanted</h3>
-                        <h6>Mittwoch, 8. Februar</h6>
+                        <h6>Mittwoch, 8. Februar 2012</h6>
                     </header>
                     <h4>We want you!</h4>
 
@@ -88,7 +87,7 @@
                 <div class="col-sm-4">
                     <header>
                         <h3>Upcoming show</h3>
-                        <h6>Mittwoch, 8. Februar</h6>
+                        <h6>Dienstag, 01. M&auml;rz 2011</h6>
                     </header>
                     <h4>19.03.2011</h4>
 
@@ -104,7 +103,7 @@
                 <div class="col-sm-4">
                     <header>
                         <h3>Demo Recording</h3>
-                        <h6>Mittwoch, 8. Februar</h6>
+                        <h6>Montag, 21. Februar 2011</h6>
                     </header>
                     <h4>no sleep till dawn</h4>
 
@@ -118,9 +117,9 @@
         </div>
 
         <div class="row band" id="band">
-            <div class="section-header">
-                <h1>Deathwhisper</h1>
-            </div>
+            <header class="section-header">
+                <h2>Deathwhisper</h2>
+            </header>
 
             <div class="row">
                 <div class="col-sm-3">
@@ -128,7 +127,7 @@
                         <img src="img/profile/dan.jpg" alt="Dani - Gesang und Gitarre"/>
 
                         <div class="caption">
-                            <h2>Dani</h2>
+                            <h3>Dani</h3>
                             <small>Gesang &amp; Gitarre</small>
                         </div>
                     </div>
@@ -138,7 +137,7 @@
                         <img src="img/profile/raphi1-2.jpg" alt="Raphi - Drums"/>
 
                         <div class="caption">
-                            <h2>Raphi</h2>
+                            <h3>Raphi</h3>
                             <small>Drums</small>
                         </div>
                     </div>
@@ -148,7 +147,7 @@
                         <img src="img/profile/matz.jpg" alt="Matze - Bass"/>
 
                         <div class="caption">
-                            <h2>Matze</h2>
+                            <h3>Matze</h3>
                             <small>Bass</small>
                         </div>
                     </div>
@@ -158,33 +157,57 @@
                         <img src="img/profile/john.jpg" alt="John - Gitarre"/>
 
                         <div class="caption">
-                            <h2>John</h2>
+                            <h3>John</h3>
                             <small>Gitarre</small>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="row imprint" id="impressum">
-            <div class="section-header">
-                <h1>Impressum</h1>
+        <div class="row audio" id="audio">
+            <header class="section-header">
+                <h2>Audio</h2>
+            </header>
+            <div class="row">
+                <div class="col-md-6">
+                    <iframe width="100%" height="450" scrolling="no" frameborder="no"
+                            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2238698&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe>
+                </div>
+                <div class="col-md-6">
+
+                </div>
             </div>
+
         </div>
     </div>
 </section>
 <footer id="footer">
     <div class="container">
-        &copy; 2014 Deathwhisper.
+        &copy; 2014 Deathwhisper | <a href="impressum.html">Impressum</a>
     </div>
 </footer>
 <script src="js/vendor/jquery/jquery.min.js"></script>
 <script src="js/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="js/main.js"></script>
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stat.webocalypse.de/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 1]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+        g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<noscript><p><img src="http://stat.webocalypse.de/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
+<script>(function (d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
+    js = d.createElement(s);
+    js.id = id;
     js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1&appId=1465031483713863";
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
