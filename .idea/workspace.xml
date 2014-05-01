@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="Updated bower dependencies">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/band_inset.jpg" />
+    <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/deathwhisper/fonts/deathwhisper.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/deathwhisper/fonts/deathwhisper.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/deathwhisper/fonts/deathwhisper.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/deathwhisper/fonts/deathwhisper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/deathwhisper/icons-reference.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/deathwhisper/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.custom.css" afterPath="$PROJECT_DIR$/css/bootstrap.custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.custom.less" afterPath="$PROJECT_DIR$/css/bootstrap.custom.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.less" afterPath="$PROJECT_DIR$/css/style.less" />
@@ -29,41 +36,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".bowerrc" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.bowerrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="1" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="28" selection-start="2214" selection-end="2214" vertical-scroll-proportion="0.6551724" vertical-offset="441" max-vertical-offset="3465">
+            <state line="39" column="41" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.63586956" vertical-offset="0" max-vertical-offset="3975">
               <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1398936931000" expanded="true" signature="791:944" placeholder="..." />
-                <marker date="1398936931000" expanded="true" signature="884:912" placeholder="..." />
+                <marker date="1398939644000" expanded="true" signature="791:944" placeholder="..." />
+                <marker date="1398939644000" expanded="true" signature="884:912" placeholder="..." />
+                <marker date="1398939644000" expanded="true" signature="6406:6492" placeholder="..." />
+                <marker date="1398939644000" expanded="true" signature="6509:6525" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
+      <file leaf-file-name="type.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/type.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="2730" max-vertical-offset="8355">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/vendor/html5-boilerplate/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="720">
+            <state line="8" column="0" selection-start="115" selection-end="115" vertical-scroll-proportion="5.0" vertical-offset="240" max-vertical-offset="4485">
               <folding />
             </state>
           </provider>
@@ -72,7 +64,7 @@
       <file leaf-file-name="style.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="128" column="8" selection-start="2491" selection-end="2491" vertical-scroll-proportion="-2.875" vertical-offset="1851" max-vertical-offset="3000">
+            <state line="171" column="29" selection-start="3415" selection-end="3415" vertical-scroll-proportion="-6.64" vertical-offset="2233" max-vertical-offset="3300">
               <folding />
             </state>
           </provider>
@@ -81,16 +73,7 @@
       <file leaf-file-name="bootstrap.custom.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.custom.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/bootstrap.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="28" selection-start="0" selection-end="1071" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="825">
+            <state line="4" column="17" selection-start="152" selection-end="152" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -114,6 +97,7 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/webfont/styles.less" />
+        <option value="$PROJECT_DIR$/css/deathwhisper/styles.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.custom.less" />
         <option value="$PROJECT_DIR$/css/style.less" />
         <option value="$PROJECT_DIR$/index.html" />
@@ -407,6 +391,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deathwhisper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -425,9 +449,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../photoalbum" />
     <property name="recentsLimit" value="5" />
     <property name="LayoutCode.rearrangeEntriesLESS" value="false" />
+    <property name="LayoutCode.rearrangeEntriesCSS" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/img/profile" />
       <recent name="$PROJECT_DIR$/css/webfont" />
       <recent name="$PROJECT_DIR$/img" />
@@ -535,16 +561,21 @@
       <created>1398935643375</created>
       <updated>1398935643375</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="New band photo">
+      <created>1398937066055</created>
+      <updated>1398937066055</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -554,12 +585,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -596,26 +626,23 @@
     <MESSAGE value="Updated dependencies" />
     <MESSAGE value="More Styles, adding sound cloud player, adding imprint, adding piwik tracking code" />
     <MESSAGE value="Updated bower dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated bower dependencies" />
+    <MESSAGE value="New band photo" />
+    <option name="LAST_COMMIT_MESSAGE" value="New band photo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.bowerrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="1" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="171" selection-start="3003" selection-end="3003" vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="2970">
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1398936931000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1398936931000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6406:6492" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6509:6525" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -673,9 +700,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="127" column="46" selection-start="5259" selection-end="5259" vertical-scroll-proportion="0.0" vertical-offset="1905" max-vertical-offset="2535">
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1398936931000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1398936931000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6406:6492" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6509:6525" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -726,9 +756,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1398936931000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1398936931000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6406:6492" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6509:6525" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -758,9 +791,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1398936931000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1398936931000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6406:6492" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6509:6525" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -790,9 +826,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1398936931000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1398936931000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6406:6492" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6509:6525" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -822,9 +861,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="0" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2160">
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1398936931000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1398936931000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6406:6492" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6509:6525" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -877,11 +919,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.10932476" vertical-offset="102" max-vertical-offset="1035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/type.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.807074" vertical-offset="3552" max-vertical-offset="4485" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/scaffolding.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.2508038" vertical-offset="1167" max-vertical-offset="2100" />
@@ -899,23 +936,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/iconfont.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1110">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/profile/raphi1-2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.custom.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/grid.less">
@@ -937,13 +960,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="2730" max-vertical-offset="8355">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/vendor/html5-boilerplate/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
@@ -951,20 +967,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.312796" vertical-offset="2730" max-vertical-offset="8355">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/iconfont.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="45" selection-end="45" vertical-scroll-proportion="0.05033557" vertical-offset="0" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vendor/bootstrap/less/type.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="115" selection-end="115" vertical-scroll-proportion="5.0" vertical-offset="240" max-vertical-offset="4485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="152" selection-end="152" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/deathwhisper/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="128" column="8" selection-start="2491" selection-end="2491" vertical-scroll-proportion="-2.875" vertical-offset="1851" max-vertical-offset="3000">
+        <state line="171" column="29" selection-start="3415" selection-end="3415" vertical-scroll-proportion="-6.64" vertical-offset="2233" max-vertical-offset="3300">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="28" selection-start="2214" selection-end="2214" vertical-scroll-proportion="0.6551724" vertical-offset="441" max-vertical-offset="3465">
+        <state line="39" column="41" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.63586956" vertical-offset="0" max-vertical-offset="3975">
           <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1398936931000" expanded="true" signature="791:944" placeholder="..." />
-            <marker date="1398936931000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="791:944" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="884:912" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6406:6492" placeholder="..." />
+            <marker date="1398939644000" expanded="true" signature="6509:6525" placeholder="..." />
           </folding>
         </state>
       </provider>
