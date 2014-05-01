@@ -1,13 +1,13 @@
 {
   "name": "lesshat",
-  "version": "2.0.15",
+  "version": "3.0.0",
   "main": "./build/lesshat.less",
   "homepage": "https://github.com/csshat/lesshat",
-  "_release": "2.0.15",
+  "_release": "3.0.0",
   "_resolution": {
     "type": "version",
-    "tag": "v2.0.15",
-    "commit": "702a7d1286573a60fdf2e9e1445db5be8b4934e6"
+    "tag": "v3.0.0",
+    "commit": "8858b6b6e64f813194f91bfe0a8630df0db2b00f"
   },
   "_source": "git://github.com/csshat/lesshat.git",
   "_target": "*",
