@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.custom.css" afterPath="$PROJECT_DIR$/css/bootstrap.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.custom.less" afterPath="$PROJECT_DIR$/css/bootstrap.custom.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.less" afterPath="$PROJECT_DIR$/css/style.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/impressum.html" afterPath="$PROJECT_DIR$/impressum.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="deathwhisper.iws" />
@@ -53,22 +48,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="impressum.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="impressum.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/impressum.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="34" selection-start="3521" selection-end="3521" vertical-scroll-proportion="7.375" vertical-offset="1182" max-vertical-offset="2115">
+            <state line="37" column="46" selection-start="2115" selection-end="2115" vertical-scroll-proportion="0.5948553" vertical-offset="0" max-vertical-offset="2115">
               <folding>
-                <marker date="1398944715000" expanded="true" signature="2273:2426" placeholder="..." />
-                <marker date="1398944715000" expanded="true" signature="2366:2394" placeholder="..." />
+                <marker date="1401363346000" expanded="true" signature="2277:2430" placeholder="..." />
+                <marker date="1401363346000" expanded="true" signature="2370:2398" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="42" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.562701" vertical-offset="525" max-vertical-offset="3285">
+            <state line="70" column="42" selection-start="1610" selection-end="1610" vertical-scroll-proportion="-21.875" vertical-offset="525" max-vertical-offset="3285">
               <folding />
             </state>
           </provider>
@@ -119,11 +114,11 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/webfont/styles.less" />
         <option value="$PROJECT_DIR$/css/deathwhisper/styles.css" />
-        <option value="$PROJECT_DIR$/impressum.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.custom.less" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.less" />
+        <option value="$PROJECT_DIR$/impressum.html" />
       </list>
     </option>
   </component>
@@ -636,7 +631,11 @@
       <created>1401362848604</created>
       <updated>1401362848604</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="New style stuff">
+      <created>1401363340615</created>
+      <updated>1401363340615</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -703,7 +702,8 @@
     <MESSAGE value="Meta Data" />
     <MESSAGE value="New Favicon" />
     <MESSAGE value="Updated bower dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated bower dependencies" />
+    <MESSAGE value="New style stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="New style stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1005,16 +1005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/impressum.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="34" selection-start="3521" selection-end="3521" vertical-scroll-proportion="7.375" vertical-offset="1182" max-vertical-offset="2115">
-          <folding>
-            <marker date="1398944715000" expanded="true" signature="2273:2426" placeholder="..." />
-            <marker date="1398944715000" expanded="true" signature="2366:2394" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="189" column="10" selection-start="8579" selection-end="8579" vertical-scroll-proportion="-1.875" vertical-offset="2790" max-vertical-offset="3735">
@@ -1028,8 +1018,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="42" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.562701" vertical-offset="525" max-vertical-offset="3285">
+        <state line="70" column="42" selection-start="1610" selection-end="1610" vertical-scroll-proportion="-21.875" vertical-offset="525" max-vertical-offset="3285">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impressum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="46" selection-start="2115" selection-end="2115" vertical-scroll-proportion="0.5948553" vertical-offset="0" max-vertical-offset="2115">
+          <folding>
+            <marker date="1401363346000" expanded="true" signature="2277:2430" placeholder="..." />
+            <marker date="1401363346000" expanded="true" signature="2370:2398" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
