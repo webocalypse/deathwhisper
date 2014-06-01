@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/impressum.html" afterPath="$PROJECT_DIR$/impressum.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="deathwhisper.iws" />
@@ -26,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="20" selection-start="2033" selection-end="2033" vertical-scroll-proportion="-3.712171" vertical-offset="2767" max-vertical-offset="3570">
+            <state line="34" column="20" selection-start="2033" selection-end="2033" vertical-scroll-proportion="94.041664" vertical-offset="2767" max-vertical-offset="3570">
               <folding>
                 <marker date="1401620048000" expanded="true" signature="2280:2433" placeholder="..." />
                 <marker date="1401620048000" expanded="true" signature="2373:2401" placeholder="..." />
@@ -38,15 +38,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="impressum.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="impressum.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/impressum.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="47" selection-start="3017" selection-end="3017" vertical-scroll-proportion="-16.875" vertical-offset="390" max-vertical-offset="3270">
+            <state line="33" column="20" selection-start="1951" selection-end="1951" vertical-scroll-proportion="0.5180921" vertical-offset="180" max-vertical-offset="3270">
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1401619527000" expanded="true" signature="2277:2430" placeholder="..." />
-                <marker date="1401619527000" expanded="true" signature="2370:2398" placeholder="..." />
+                <marker date="1401620099000" expanded="true" signature="2278:2431" placeholder="..." />
+                <marker date="1401620099000" expanded="true" signature="2371:2399" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -83,8 +83,8 @@
         <option value="$PROJECT_DIR$/css/style.less" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/bower.json" />
-        <option value="$PROJECT_DIR$/impressum.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/impressum.html" />
       </list>
     </option>
   </component>
@@ -639,7 +639,11 @@
       <created>1401619547229</created>
       <updated>1401619547229</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Fixed home links">
+      <created>1401620093444</created>
+      <updated>1401620093444</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -785,24 +789,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/impressum.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="47" selection-start="3017" selection-end="3017" vertical-scroll-proportion="-16.875" vertical-offset="390" max-vertical-offset="3270">
+        <state line="34" column="20" selection-start="2033" selection-end="2033" vertical-scroll-proportion="94.041664" vertical-offset="2767" max-vertical-offset="3570">
           <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1401619527000" expanded="true" signature="2277:2430" placeholder="..." />
-            <marker date="1401619527000" expanded="true" signature="2370:2398" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2280:2433" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2373:2401" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/impressum.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="20" selection-start="2033" selection-end="2033" vertical-scroll-proportion="-3.712171" vertical-offset="2767" max-vertical-offset="3570">
+        <state line="33" column="20" selection-start="1951" selection-end="1951" vertical-scroll-proportion="0.5180921" vertical-offset="180" max-vertical-offset="3270">
           <folding>
-            <marker date="1401620048000" expanded="true" signature="2280:2433" placeholder="..." />
-            <marker date="1401620048000" expanded="true" signature="2373:2401" placeholder="..." />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1401620099000" expanded="true" signature="2278:2431" placeholder="..." />
+            <marker date="1401620099000" expanded="true" signature="2371:2399" placeholder="..." />
           </folding>
         </state>
       </provider>
