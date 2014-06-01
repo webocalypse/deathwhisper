@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1af272-44f6-49cf-8e94-d26d7b1b794b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/impressum.html" afterPath="$PROJECT_DIR$/impressum.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -30,10 +29,10 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="47" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.49342105" vertical-offset="465" max-vertical-offset="3570">
+            <state line="34" column="20" selection-start="2033" selection-end="2033" vertical-scroll-proportion="-3.712171" vertical-offset="2767" max-vertical-offset="3570">
               <folding>
-                <marker date="1401619539000" expanded="true" signature="2279:2432" placeholder="..." />
-                <marker date="1401619539000" expanded="true" signature="2372:2400" placeholder="..." />
+                <marker date="1401620048000" expanded="true" signature="2280:2433" placeholder="..." />
+                <marker date="1401620048000" expanded="true" signature="2373:2401" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -636,7 +635,11 @@
       <created>1401619489415</created>
       <updated>1401619489415</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Fixed home links">
+      <created>1401619547229</created>
+      <updated>1401619547229</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -655,7 +658,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -680,7 +683,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="updating bower dependencies" />
     <MESSAGE value="new stuff&#10;" />
     <MESSAGE value="More changes" />
     <MESSAGE value="Deployment" />
@@ -705,7 +707,8 @@
     <MESSAGE value="Vendor stuff" />
     <MESSAGE value="Removed tour section" />
     <MESSAGE value="Neues impressum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Neues impressum" />
+    <MESSAGE value="Fixed home links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed home links" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -715,8 +718,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="206" column="10" selection-start="9319" selection-end="9319" vertical-scroll-proportion="0.0" vertical-offset="2682" max-vertical-offset="3615">
           <folding>
-            <marker date="1401619539000" expanded="true" signature="2279:2432" placeholder="..." />
-            <marker date="1401619539000" expanded="true" signature="2372:2400" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2280:2433" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2373:2401" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -732,8 +735,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="232" column="17" selection-start="10275" selection-end="10278" vertical-scroll-proportion="0.0" vertical-offset="3033" max-vertical-offset="3615">
           <folding>
-            <marker date="1401619539000" expanded="true" signature="2279:2432" placeholder="..." />
-            <marker date="1401619539000" expanded="true" signature="2372:2400" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2280:2433" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2373:2401" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -749,8 +752,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="41" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="3735">
           <folding>
-            <marker date="1401619539000" expanded="true" signature="2279:2432" placeholder="..." />
-            <marker date="1401619539000" expanded="true" signature="2372:2400" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2280:2433" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2373:2401" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -759,8 +762,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="41" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="3735">
           <folding>
-            <marker date="1401619539000" expanded="true" signature="2279:2432" placeholder="..." />
-            <marker date="1401619539000" expanded="true" signature="2372:2400" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2280:2433" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2373:2401" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -796,10 +799,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="47" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.49342105" vertical-offset="465" max-vertical-offset="3570">
+        <state line="34" column="20" selection-start="2033" selection-end="2033" vertical-scroll-proportion="-3.712171" vertical-offset="2767" max-vertical-offset="3570">
           <folding>
-            <marker date="1401619539000" expanded="true" signature="2279:2432" placeholder="..." />
-            <marker date="1401619539000" expanded="true" signature="2372:2400" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2280:2433" placeholder="..." />
+            <marker date="1401620048000" expanded="true" signature="2373:2401" placeholder="..." />
           </folding>
         </state>
       </provider>
